@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: red;
+}
+
+h1{
+  background-color: rgb(128, 118, 118);
+  color: rgb(215, 16, 16);
+}
+
+h1:hover{
+  color: white;
+}
+
+.btn{
+  background-color: blue;
+  color: red;
+}
